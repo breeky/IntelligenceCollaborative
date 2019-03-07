@@ -1,0 +1,2 @@
+# IntelligenceCollaborative
+Projet d'ico
